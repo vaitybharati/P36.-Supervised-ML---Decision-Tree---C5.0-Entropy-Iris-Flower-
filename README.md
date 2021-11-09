@@ -19,7 +19,7 @@ Plot the decision tree
 
 Better visualization of Decision Tree
 
-## Validation & Testing Decision Tree Classifier (C5.0) Model¶
+## Validation & Testing Decision Tree Classifier (C5.0) Model
 
 Predicting on test data
 
